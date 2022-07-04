@@ -1,0 +1,5 @@
+// Indonesian
+Program ini merupakan final project virtual intership IDX Juni 2022. Metode yang digunakan adalah mengurangi multicolinearity dengan cara:
+1. Memilih salah satu dari pair-linear features
+2. Melakukan PCA untuk numeric feature
+3. Melakukan MCA unutk category feature
